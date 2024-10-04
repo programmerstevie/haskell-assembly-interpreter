@@ -1,4 +1,4 @@
-# Assembly Language Parser and Evaluator in Haskell
+# Assembly Language Interpreter in Haskell
 
 This repository contains a Haskell implementation of a parser and evaluator for an assembly-like language using the [Parsec](https://hackage.haskell.org/package/parsec) library. The project includes the following modules:
 
